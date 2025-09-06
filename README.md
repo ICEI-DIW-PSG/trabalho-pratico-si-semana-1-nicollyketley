@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Nicolly Ketley Ornelas silva
+Matricula: 1625861
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![alt text](images/network.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![alt text](<images/Captura de tela 2025-08-24 185651.png>)
 
 
 ## Orientações sobre Linguagem MarkDown
