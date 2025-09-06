@@ -2,7 +2,7 @@
 
 ## Informações Gerais
 
-Nome: Nicolly Ketley Ornelas silva
+Nome: Nicolly 
 Matricula: 1625861
 
 ## Tela de inspeção com navegador
